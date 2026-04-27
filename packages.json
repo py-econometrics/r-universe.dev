@@ -3,6 +3,6 @@
         "package": "withinr",
         "url": "https://github.com/py-econometrics/within",
         "subdir": "withinr", 
-        "branch": "r-bindings"
+        #"branch": "r-bindings"
     }
 ]
