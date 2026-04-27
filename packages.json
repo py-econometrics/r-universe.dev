@@ -2,6 +2,7 @@
     {
         "package": "withinr",
         "url": "https://github.com/py-econometrics/within",
-        "subdir": "withinr"
+        "subdir": "withinr", 
+        "branch": "r-bindings"
     }
 ]
